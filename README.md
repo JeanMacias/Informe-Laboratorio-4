@@ -55,7 +55,7 @@ Cálculos Realizados
 
 1.5.4. Haga “cero” la fuente de voltaje de 10 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
-(IMAGEN)
+![image](https://user-images.githubusercontent.com/116774235/209339505-31fe96e6-7c04-42c1-9882-08e22aecab69.png)
 
 Cálculos Realizados
 
